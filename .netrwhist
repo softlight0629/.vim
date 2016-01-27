@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/gxb/.oh-my-zsh'
+let g:netrw_dirhist_2='/Users/gxb/softlight/00_Alipay/ali_workspace/w_cmscore_ali01406333/ali01406333_P_20140911_cmscore_2/dalgen/generator-command-line-1.0/tables'
+let g:netrw_dirhist_3='/Users/gxb/softlight/temp/tp/consumeprod2/templates'
+let g:netrw_dirhist_4='/Users/gxb/.vim/bundle/xptemplate/ftplugin'
+let g:netrw_dirhist_5='/Users/gxb/softlight/00_Alipay/ali_workspace/fd-beta2.0/cmscore/.git'
+let g:netrw_dirhist_6='/Users/gxb/softlight/sharedata/home/screen/ds.alipay.net/wang/index.html'
